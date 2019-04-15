@@ -1,0 +1,5 @@
+entity Country {
+	name String required
+	capital String
+	population Long
+}
